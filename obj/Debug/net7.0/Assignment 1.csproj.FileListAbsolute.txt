@@ -1,0 +1,16 @@
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.csproj.AssemblyReference.cache
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.AssemblyInfoInputs.cache
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.AssemblyInfo.cs
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.csproj.CoreCompileInputs.cache
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/bin/Debug/net7.0/employees.txt
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1.deps.json
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1.runtimeconfig.json
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1.dll
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/bin/Debug/net7.0/Assignment 1.pdb
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.dll
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/obj/Debug/net7.0/refint/Assignment 1.dll
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.pdb
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/obj/Debug/net7.0/Assignment 1.genruntimeconfig.cache
+/Users/jay/Desktop/vs/Assignment 1/Assignment 1/obj/Debug/net7.0/ref/Assignment 1.dll
